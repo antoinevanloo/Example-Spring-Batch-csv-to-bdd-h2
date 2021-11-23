@@ -11,7 +11,7 @@
 - `password` - Password.
 
 
-## Stack tecnique
+## Technical stack
 - JDK 8
 - H2 Database
 - JPA
